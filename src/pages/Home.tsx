@@ -125,7 +125,7 @@ const Home = () => {
               <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Cafe interior" className="w-full h-full object-cover" />
             </div>
             <div className="md:col-span-2 h-[400px]">
-              <img src="https://images.unsplash.com/photo-1481833707118-cb14f494c253?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Brunch spread" className="w-full h-full object-cover" />
+              <img src="https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?auto=format&fit=crop&w=1200&q=80" alt="Brunch spread" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
